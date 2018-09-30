@@ -37,4 +37,3 @@ def get_pokemmon_weight():
             fw.write(weight[30:40] + "\n")
     fw.close()
 
-get_pokemmon_weight()
